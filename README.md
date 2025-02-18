@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edin Duraković  
+# 👋 Hi, I'm Edin Durak
 
 🚀 **Fast learner | Frontend Developer | Building real-world projects**  
 
@@ -16,7 +16,7 @@ I'm passionate about **web development** and continuously working on real-world 
 ## 📌 What I'm Currently Doing  
 - 🌱 Expanding my JavaScript & React skills  
 - 💡 Working on **real-world projects** and contributing to open-source  
-- 🔥 Learning **Shopify development** and backend technologies  
+- 🔥 Learning **Advanced frontend development** and backend technologies  
 - 🤝 Open to collaboration on **frontend projects**  
 
 ## 📫 Let's Connect!  
