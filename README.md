@@ -5,7 +5,7 @@
 I'm passionate about **web development** and continuously working on real-world projects to improve my skills and contribute to the tech community. I adapt quickly to ongoing projects and enjoy solving challenges efficiently.  
 
 ## 🌍 My Work  
-🔗 **Check out my portfolio**: [edin-durak-dev.vercel.app](https://edin-durak-dev.vercel.app/)  
+🔗 **Check out my website and services**: [edin-durak-dev.vercel.app](https://edin-durak-dev.vercel.app/)  
 💼 **My Upwork profile**: [Upwork Freelancer](https://www.upwork.com/freelancers/~013a860aabfa89c4b2)  
 
 ## 🛠 Skills  
@@ -23,6 +23,6 @@ I'm passionate about **web development** and continuously working on real-world 
 📧 Email: **edindurak8@gmail.com**  
 💼 LinkedIn: [Edin Durak](https://www.linkedin.com/in/edin-durak-bb9ba41b4/)  
 
----
+
 
 
