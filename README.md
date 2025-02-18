@@ -11,7 +11,7 @@ I'm passionate about **web development** and continuously working on real-world 
 ## 🛠 Skills  
 - **Frontend**: HTML5, CSS3, SASS, Bootstrap 5, Tailwind, JavaScript (ES6+), React.js  
 - **Backend**: Learning Node.js & API integrations  
-- **Other**: Git, GitHub, SEO optimization, Responsive Design  
+- **Other**: Git, GitHub, SEO optimization, Responsive Design, Comunication, Flexibility  
 
 ## 📌 What I'm Currently Doing  
 - 🌱 Expanding my JavaScript & React skills  
