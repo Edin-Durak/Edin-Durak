@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @Edin-Durak
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript advanced course
-- 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me ... You can email me on edindurak8@gmail.com or contact me via LinkedIn (https://www.linkedin.com/in/edin-durak-bb9ba41b4/).
-- Check out my Upwork profile as well on this link https://www.upwork.com/freelancers/~013a860aabfa89c4b2.
-- My skills are HTML5, CSS3, SASS, Bootstrap 5, and the fundamentals of JavaScript.
-- I am eager to learn more than this, as I want to become a full-stack web developer.
+# 👋 Hi, I'm Edin Duraković  
+
+🚀 **Fast learner | Frontend Developer | Building real-world projects**  
+
+I'm passionate about **web development** and continuously working on real-world projects to improve my skills and contribute to the tech community. I adapt quickly to ongoing projects and enjoy solving challenges efficiently.  
+
+## 🌍 My Work  
+🔗 **Check out my portfolio**: [edin-durak-dev.vercel.app](https://edin-durak-dev.vercel.app/)  
+💼 **My Upwork profile**: [Upwork Freelancer](https://www.upwork.com/freelancers/~013a860aabfa89c4b2)  
+
+## 🛠 Skills  
+- **Frontend**: HTML5, CSS3, SASS, Bootstrap 5, Tailwind, JavaScript (ES6+), React.js  
+- **Backend**: Learning Node.js & API integrations  
+- **Other**: Git, GitHub, SEO optimization, Responsive Design  
+
+## 📌 What I'm Currently Doing  
+- 🌱 Expanding my JavaScript & React skills  
+- 💡 Working on **real-world projects** and contributing to open-source  
+- 🔥 Learning **Shopify development** and backend technologies  
+- 🤝 Open to collaboration on **frontend projects**  
+
+## 📫 Let's Connect!  
+📧 Email: **edindurak8@gmail.com**  
+💼 LinkedIn: [Edin Durak](https://www.linkedin.com/in/edin-durak-bb9ba41b4/)  
+
+---
 
 
-<!---
-Edin-Durak/Edin-Durak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
